@@ -1,1 +1,1 @@
-console.log(" index file(updated) (buttonss)");
+console.log(" index file (buttons)");
