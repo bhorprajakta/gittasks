@@ -1,1 +1,1 @@
-console.log(" index file (button)");
+console.log(" index file (buttons)");
